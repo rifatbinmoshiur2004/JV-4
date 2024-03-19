@@ -4,13 +4,7 @@ $(document).ready(function(){
         
         $('.field').append('<div><input> <a href="#" class="remove_field">remove_field</a></div>')
 
-
-
-
-
-
-
-       
+      
     })
 });
 
